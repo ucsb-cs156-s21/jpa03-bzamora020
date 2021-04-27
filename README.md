@@ -7,8 +7,7 @@ On Heroku: https://jpa03-bzamoraflores.herokuapp.com
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-bzamora020
 
-[![codecov](https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-bzamora020/branch/main/graph/badge.svg)](https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-bzamora020)
-
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-bzamora020/branch/main/graph/badge.svg?token=bjAV160ceV)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-bzamora020)
 
 ## Integrations
 
